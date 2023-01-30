@@ -1,0 +1,18 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 991px;
+    padding: 50px;
+    margin-top: 50px;
+    border: 5px dotted rgb(247, 155, 170);
+    background-color: rgb(240, 214, 183);   
+}
+
+#result{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+}
