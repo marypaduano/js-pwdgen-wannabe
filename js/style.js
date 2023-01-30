@@ -11,4 +11,4 @@ reqNum = parseInt(reqNum)
 //scrivi sulla pagina il risultato della concatenazione
 
 const passwordResult = document.getElementById('result')
-passwordResult.innerHTML = ''
+passwordResult.innerHTML = firstName + lastName + favColor + reqNum
